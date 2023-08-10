@@ -15,3 +15,7 @@ Must install the following npms;
 - Express.js
 - Sequelize
 - MySQL
+
+## Demo Link
+
+https://drive.google.com/file/d/1vLKcGEpSD1rGP8rO0lSBrbg64NoJ61B3/view?usp=sharing
