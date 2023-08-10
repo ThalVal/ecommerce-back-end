@@ -31,10 +31,6 @@ Product.init(
     stock:{
       type:DataTypes.INTEGER,
       allowNull:false,
-      validate: {
-        equals: '10',
-        isNumeric: true,
-      },
     },
     category_id:{
       type:DataTypes.INTEGER,
